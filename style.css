@@ -1,3 +1,8 @@
-#kozep{
-    justify-content: center;
+body {
+    display: block;
+}
+
+#mainImg {
+    margin-left: auto;
+    margin-right: auto;
 }
